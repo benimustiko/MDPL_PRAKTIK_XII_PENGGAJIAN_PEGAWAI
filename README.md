@@ -9,7 +9,7 @@ b. Beni Mustiko Aji (5200411364)
 
 c. Rinaldi Imam Nugroho (5200411326)
 
-2. Tugas Desain Document
+2. Tugas Software Desain Document
 
 a. Alfian Imam Santoso (5200411352)
 
