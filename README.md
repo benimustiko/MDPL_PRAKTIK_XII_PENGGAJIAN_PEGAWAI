@@ -31,6 +31,6 @@ b. Beni Mustiko Aji (5200411364)
 
 5. Tugas RAD PENYEWAAN BUKU BUKU
 
-a. Alfian Imam Santoso (5200411352)
+a. Alfian Imam Santoso (5200411352) (RAD)
 
-b. Beni Mustiko Aji (5200411364)
+b. Beni Mustiko Aji (5200411364) (WEB)
